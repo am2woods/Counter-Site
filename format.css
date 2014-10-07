@@ -1,0 +1,49 @@
+*{
+	font-family: comic sans ms;
+}
+
+body{
+	background-color: #ffdead;
+}
+
+div.container
+{
+	width:960px;
+	margin:0 auto;
+	overflow: hidden;
+	background-color: #e9967a;
+	border-radius: 25px;
+	padding: 7px;
+}
+
+.num{
+	display: inline;
+	width: 50px;
+	height: 50px;
+	background-color:#ffb4d9;
+	padding: 3px;
+	display: inline-block;
+	text-align: center;
+	margin: 1px;
+	border-radius:50px;
+	font-weight: bold;
+}
+
+.highlight{
+	background-color: #b4ffda;
+	display: inline;
+	width: 50px;
+	height: 50px;
+	padding: 3px;
+	display: inline-block;
+	text-align: center;
+	margin: 3px;
+	border-radius: 50px;
+	font-weight: bold;
+}
+
+label{
+	color: #b4ffb4;
+	background-color: #b4b4ff;
+	border-radius: 10px;
+}
